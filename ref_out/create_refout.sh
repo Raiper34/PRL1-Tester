@@ -1,4 +1,5 @@
 #!/bin/bash
+rm -rf refout_creator
 g++ -o refout_creator refout_creator.cpp
 for (( n=1; n<=26; n++ ))
 do
