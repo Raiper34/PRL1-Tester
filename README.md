@@ -5,6 +5,6 @@ Copy your es.cpp project to same directory as prl_tester.sh and run script ./prl
 
 Example:
 -----------
-cp [somewhere/]es.cpp [somewhere/]es.cpp #copy example
-chmod +x prl_tester.sh
+cp [somewhere/]es.cpp [somewhere/]es.cpp #copy example  
+chmod +x prl_tester.sh  
 ./prl_tester.sh
